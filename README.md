@@ -1,4 +1,4 @@
-# MATLAB Desktop Interface 📉
+# MATLAB Desktop Interface 
 
 Aplikacja desktopowa typu Windows Forms (C#), stanowiąca graficzny interfejs użytkownika (GUI) dla silnika obliczeniowego MATLAB. Projekt umożliwia wykonywanie zaawansowanych operacji matematycznych bez konieczności znajomości składni MATLABa.
 
