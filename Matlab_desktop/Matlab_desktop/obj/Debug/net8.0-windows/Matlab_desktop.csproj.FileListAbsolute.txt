@@ -1,0 +1,17 @@
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\bin\Debug\net8.0-windows\Matlab_desktop.exe
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\bin\Debug\net8.0-windows\Matlab_desktop.deps.json
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\bin\Debug\net8.0-windows\Matlab_desktop.runtimeconfig.json
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\bin\Debug\net8.0-windows\Matlab_desktop.dll
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\bin\Debug\net8.0-windows\Matlab_desktop.pdb
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\Matlab_desktop.Form1.resources
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\Matlab_desktop.csproj.GenerateResource.cache
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\Matlab_desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\Matlab_desktop.AssemblyInfoInputs.cache
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\Matlab_desktop.AssemblyInfo.cs
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\Matlab_desktop.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\Matlab_desktop.dll
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\refint\Matlab_desktop.dll
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\Matlab_desktop.pdb
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\Matlab_desktop.genruntimeconfig.cache
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\ref\Matlab_desktop.dll
+C:\Users\tomas\Tomasz\Techniki informatyczne\Projekt\Matlab_desktop\Matlab_desktop\obj\Debug\net8.0-windows\Matlab_desktop.Properties.Resources.resources

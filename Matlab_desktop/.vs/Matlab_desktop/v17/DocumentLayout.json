@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\Tomasz\\Techniki informatyczne\\Projekt\\Matlab_desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34FCEEC3-C4D0-4365-873F-EFAF03CD03B9}|Matlab_desktop\\Matlab_desktop.csproj|c:\\users\\tomas\\tomasz\\techniki informatyczne\\projekt\\matlab_desktop\\matlab_desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FCEEC3-C4D0-4365-873F-EFAF03CD03B9}|Matlab_desktop\\Matlab_desktop.csproj|solutionrelative:matlab_desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FCEEC3-C4D0-4365-873F-EFAF03CD03B9}|Matlab_desktop\\Matlab_desktop.csproj|C:\\Users\\tomas\\Tomasz\\Techniki informatyczne\\Projekt\\Matlab_desktop\\matlab_desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34FCEEC3-C4D0-4365-873F-EFAF03CD03B9}|Matlab_desktop\\Matlab_desktop.csproj|solutionrelative:matlab_desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FCEEC3-C4D0-4365-873F-EFAF03CD03B9}|Matlab_desktop\\Matlab_desktop.csproj|c:\\users\\tomas\\tomasz\\techniki informatyczne\\projekt\\matlab_desktop\\matlab_desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FCEEC3-C4D0-4365-873F-EFAF03CD03B9}|Matlab_desktop\\Matlab_desktop.csproj|solutionrelative:matlab_desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FCEEC3-C4D0-4365-873F-EFAF03CD03B9}|Matlab_desktop\\Matlab_desktop.csproj|c:\\users\\tomas\\tomasz\\techniki informatyczne\\projekt\\matlab_desktop\\matlab_desktop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FCEEC3-C4D0-4365-873F-EFAF03CD03B9}|Matlab_desktop\\Matlab_desktop.csproj|solutionrelative:matlab_desktop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Tomasz\\Techniki informatyczne\\Projekt\\Matlab_desktop\\Matlab_desktop\\Form1.cs",
+              "RelativeDocumentMoniker": "Matlab_desktop\\Form1.cs",
+              "ToolTip": "C:\\Users\\tomas\\Tomasz\\Techniki informatyczne\\Projekt\\Matlab_desktop\\Matlab_desktop\\Form1.cs",
+              "RelativeToolTip": "Matlab_desktop\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:49:37.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tomas\\Tomasz\\Techniki informatyczne\\Projekt\\Matlab_desktop\\Matlab_desktop\\Form1.cs",
+              "RelativeDocumentMoniker": "Matlab_desktop\\Form1.cs",
+              "ToolTip": "C:\\Users\\tomas\\Tomasz\\Techniki informatyczne\\Projekt\\Matlab_desktop\\Matlab_desktop\\Form1.cs [Design]",
+              "RelativeToolTip": "Matlab_desktop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T10:59:16.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Tomasz\\Techniki informatyczne\\Projekt\\Matlab_desktop\\Matlab_desktop\\Program.cs",
+              "RelativeDocumentMoniker": "Matlab_desktop\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\Tomasz\\Techniki informatyczne\\Projekt\\Matlab_desktop\\Matlab_desktop\\Program.cs",
+              "RelativeToolTip": "Matlab_desktop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:34:53.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Tomasz\\Techniki informatyczne\\Projekt\\Matlab_desktop\\Matlab_desktop\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Matlab_desktop\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\tomas\\Tomasz\\Techniki informatyczne\\Projekt\\Matlab_desktop\\Matlab_desktop\\Form1.Designer.cs",
+              "RelativeToolTip": "Matlab_desktop\\Form1.Designer.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAjwOsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:20:42.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
