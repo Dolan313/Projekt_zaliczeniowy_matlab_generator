@@ -336,6 +336,12 @@ namespace Matlab_desktop
                 return;
             }
 
+            if (minVal >= maxVal)
+            {
+                miejscaZerowe.Text = "Wartoœæ MIN musi byæ mniejsza ni¿ MAX.";
+                return;
+            }
+
 
             miejscaZerowe.Multiline = true;
 
