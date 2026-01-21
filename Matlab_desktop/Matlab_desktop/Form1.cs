@@ -72,7 +72,9 @@ namespace Matlab_desktop
             return false;
         }
 
-        private bool ParseExpression(string s, ref int index)
+
+        // Najwy¿szy poziom hierarchii dzia³añ. Szuka operatorów + i -, ³¹cz¹c ze sob¹ "sk³adniki" (Terms).
+        private bool ParseExpression(string s, ref int index) 
         {
             if (!ParseTerm(s, ref index))
                 return false;
@@ -95,6 +97,7 @@ namespace Matlab_desktop
             return true;
         }
 
+        // Zajmuje siê priorytetem mno¿enia i dzielenia. £¹czy ze sob¹ "czynniki" (Factors).
         private bool ParseTerm(string s, ref int index)
         {
             if (!ParseFactor(s, ref index))
@@ -118,6 +121,7 @@ namespace Matlab_desktop
             return true;
         }
 
+        // Obs³uguje operator ^. Jest to poziom ni¿ej ni¿ mno¿enie, co zapewnia poprawn¹ kolejnoœæ dzia³añ (najpierw potêgowanie, potem mno¿enie).
         private bool ParseFactor(string s, ref int index)
         {
             if (index >= s.Length)
@@ -138,6 +142,7 @@ namespace Matlab_desktop
             return true;
         }
 
+        // Sprawdza elementarne cz³ony wyra¿enia 
         private bool ParsePrimary(string s, ref int index)
         {
             // liczby
@@ -324,12 +329,6 @@ namespace Matlab_desktop
             userFunction = Regex.Replace(userFunction, @"(?<=[^\.\s])(\^|\*|/)", m => "." + m.Value);
 
 
-            if (string.IsNullOrWhiteSpace(userFunction))
-            {
-                miejscaZerowe.Text = "Brak funkcji.";
-                return;
-            }
-
             if (!double.TryParse(min_od.Text, out double minVal) ||
                 !double.TryParse(max_do.Text, out double maxVal))
             {
@@ -337,9 +336,6 @@ namespace Matlab_desktop
                 return;
             }
 
-            // Wektoryzacja operatorów dla MATLAB
-            userFunction = System.Text.RegularExpressions.Regex.Replace(
-                userFunction, @"(?<=[^\.\s])(\^|\*|/)", m => "." + m.Value);
 
             miejscaZerowe.Multiline = true;
 
